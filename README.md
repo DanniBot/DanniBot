@@ -16,7 +16,9 @@
 - 🌱 I'm a passionate Python coder, interested in full-stack web development & machine learning
 - 🤳 For more about me and my projects, visit my personal website
 - 📫 How to reach me: Just ping me up on [mail](mailto:dshi3@ur.rochester.edu)
-- 🦜 Fun fact: My little conure Gling often stops me from coding by gnowing my mouse and standing on my keyboard 
+- 🦜 Fun fact: My little conure Gling often stops me from coding by gnowing my mouse and standing on my keyboard
+
+
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -43,6 +45,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
----
+
 
 
