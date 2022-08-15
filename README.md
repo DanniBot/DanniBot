@@ -5,6 +5,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Danni</h1>
+ ![](https://komarev.com/ghpvc/?username=dannibot&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 </div>
 
  
@@ -45,11 +46,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniBot&layout=compact&hide=html" alt="DanniBot" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanniBot&show_icons=true" alt="DanniBot" /></p>
 
 
 
