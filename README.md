@@ -46,5 +46,10 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniBot&layout=compact&hide=html" alt="DanniBot" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanniBot&show_icons=true" alt="DanniBot" /></p>
+
 
 
