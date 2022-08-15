@@ -5,7 +5,6 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Danni</h1>
- ![](https://komarev.com/ghpvc/?username=dannibot&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 </div>
 
  
