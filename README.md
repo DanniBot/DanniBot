@@ -14,7 +14,7 @@
 
 - 🏫 I’m currently majoring in Computer Science as a master student in University of Rochester
 - 🌱 I'm a passionate Python coder, interested in full-stack web development & machine learning
-- 🤳 For more about me and my projects, visit my personal website
+- 🤳 For more about me and my projects, visit my [portfolio](https://www.dannishi.me/)
 - 📫 How to reach me: Just ping me up on [mail](mailto:dshi3@ur.rochester.edu)
 - 🦜 Fun fact: My little conure Gling often stops me from coding by gnowing my mouse and standing on my keyboard
 
