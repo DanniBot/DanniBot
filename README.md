@@ -16,7 +16,6 @@
 - 🌱 I'm a passionate Python coder, interested in full-stack web development & machine learning
 - 🤳 For more about me and my projects, visit my [portfolio](https://www.dannishi.me/)
 - 📫 How to reach me: Just ping me up on [mail](mailto:dannishi.me@gmail.com)
-- 🦜 Fun fact: My little conure Gling often stops me from coding by biting my mouse and standing on my keyboard
 
 
 <div>
