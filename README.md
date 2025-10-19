@@ -11,11 +11,9 @@
 <img src="https://user-images.githubusercontent.com/36128196/119252769-95264300-bbcb-11eb-818c-487861bc86ee.gif" alt="side Image" align="right" width="260" height="auto" />
 
 
-
-- 🏫 I’m currently majoring in Computer Science as a Master's student in University of Rochester
-- 🌱 I'm a passionate Python coder, interested in full-stack web development & machine learning
-- 🤳 For more about me and my projects, visit my [portfolio](https://www.dannishi.me/)
-- 📫 How to reach me: Just ping me up on [mail](mailto:dannishi.me@gmail.com)
+- 🌱 I'm a passionate Python coder, interested in Infra & full-stack web development
+- 🤳 For more about me, visit my [website](https://www.danniverse.com/)
+- 📫 How to reach me: Just ping me up on [mail](mailto:dannishi@danniverse.com)
 
 
 <div>
